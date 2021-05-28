@@ -1,0 +1,2 @@
+- 👋 Hi, this organization is meant to be open for the open source projects for kalayki tehsil.
+- 📫 PRs are welcomed
